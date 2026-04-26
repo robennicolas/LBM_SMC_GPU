@@ -1,0 +1,10 @@
+cat > .gitignore << 'EOF'
+build/
+*.o
+*.so
+*.exe
+lbm_sim
+LBM_App
+*.user
+.DS_Store
+EOF
