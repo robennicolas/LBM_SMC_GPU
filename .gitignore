@@ -8,3 +8,4 @@ LBM_App
 *.user
 .DS_Store
 EOF
+*.deb
