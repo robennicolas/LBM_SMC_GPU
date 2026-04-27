@@ -249,7 +249,7 @@ Tested on **NVIDIA GeForce RTX 4070 SUPER** (sm_89), grid 500×200:
 
 | Metric | Value |
 |---|---|
-| Throughput | **160 MLUPS** |
+| Throughput | **180 MLUPS** |
 | Particles | 1 000 000 |
 | Localization error | < 10 px |
 | Strouhal number | ~0.23 |
